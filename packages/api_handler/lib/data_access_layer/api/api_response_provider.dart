@@ -1,6 +1,6 @@
 import 'dart:async';
 import 'dart:io';
-import 'package:api_handler/common/exports.dart';
+import 'package:api_handler/core/exports.dart';
 import 'package:connectivity_plus/connectivity_plus.dart';
 import 'package:dio/dio.dart';
 import 'package:dio/io.dart';

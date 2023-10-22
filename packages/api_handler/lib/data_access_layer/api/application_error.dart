@@ -1,4 +1,6 @@
-import 'package:api_handler/common/exports.dart';
+
+import 'package:api_handler/core/exports.dart';
+import 'package:api_handler/models/common_models/api_error.dart';
 
 class ApplicationError {
   List<ApiError> errors;
